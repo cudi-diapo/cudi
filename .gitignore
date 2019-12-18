@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.jpeg
+media
+__pycache__
+venv
